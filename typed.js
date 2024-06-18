@@ -1,5 +1,5 @@
 new Typed('#typed', {
-    strings: ['Lua, Python, Skid.'],
+    strings: ['2k Wagers, Valorant, Roblox'],
     typeSpeed: 120,
     backSpeed: 120,
     backDelay: 1000,
